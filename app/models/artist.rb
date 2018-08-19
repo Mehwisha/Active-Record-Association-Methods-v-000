@@ -11,7 +11,7 @@ self.songs.first
 
   def song_count
     #return the number of songs associated with the artist
-self.songs.artist
+self.songs.artists
 
   end
 
